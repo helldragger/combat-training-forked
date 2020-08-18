@@ -1,0 +1,41 @@
+<ModMetaData>
+	<name>Combat Training - Forked</name>
+	<author>Helldragger</author>
+	<packageId>helldragger.combattrainingforked</packageId>
+	<supportedVersions>
+		<li>1.2</li>
+	</supportedVersions>
+	<description>
+Adds training dummies and a train combat job to train your colonists.
+
+Getting started:
+1. Build a dummy
+2. Click the dummy
+3. Toggle the kind of training you want to allow on it (can be both)
+4. Set your colonist to train combat in its work priorities
+5. (optionally) craft training weapons to avoid damaging and needing to repair your dummies too often.
+
+What about the forked version? It's Combat Training but with most problems fixed:
+1. No more breaking dummies during training, colonist now stop using a dummy if it lacks more than 50% of its HP! You can still one shot them though, be careful with your nukes. >:(
+2. No more repairing dummies using a Component (thanks to Velcroboy33), they never needed any anyway.
+3. No more forgetting weapons most of the time! Colonists now store their weapon in their inventory when using training weapons, and whip it out when they stop training!
+4. No more training loop when the max level is reached.
+5. Turned public most private things, if you want to patch something, now you CAN.
+
+All credit is due to Krill, the original author for the original idea and implementation, and the contributors who helped him up to the version 1.1.
+This is a full replacement and is NOT compatible with the original mod.
+	</description>
+	<modDependencies>
+		<li>
+			<packageId>UnlimitedHugs.HugsLib</packageId>
+			<displayName>HugsLib</displayName>
+			<downloadUrl>https://github.com/UnlimitedHugs/RimworldHugsLib/releases/latest</downloadUrl>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/818773962</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>brrainz.harmony</li>
+		<li>UnlimitedHugs.HugsLib</li>
+		<li>kriil.combat</li>
+	</loadAfter>
+</ModMetaData>

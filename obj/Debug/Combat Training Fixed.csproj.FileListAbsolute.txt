@@ -1,0 +1,8 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Combat_Training_Fixes\1.1\Assemblies\Combat_Training_Fixed.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Combat_Training_Fixes\1.1\Assemblies\Combat_Training_Fixed.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Combat_Training_Fixes\obj\Debug\Combat Training Fixed.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Combat_Training_Fixes\obj\Debug\Combat_Training_Fixed.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Combat_Training_Fixes\obj\Debug\Combat_Training_Fixed.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Combat_Training_Fixes\1.2\Assemblies\Combat_Training_Fixed.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Combat_Training_Fixes\1.2\Assemblies\Combat_Training_Fixed.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Combat_Training_Fixes\obj\Debug\Combat Training Fixed.csprojAssemblyReference.cache
